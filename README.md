@@ -1,6 +1,6 @@
 # serb_app
 
-A new Flutter project.
+Projeto SERB - TCC de informática p/ conclusão de curso em 2023
 
 ## Getting Started
 
