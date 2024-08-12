@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842474337426",
+    "project_id": "serbv2-21db7",
+    "storage_bucket": "serbv2-21db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842474337426:android:dd7fcb3684494e45c2224b",
+        "android_client_info": {
+          "package_name": "com.serb.musicians_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0dW6u5lQ8FmB9jcabfuAtheQzpT1i3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
